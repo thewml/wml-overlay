@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>wml</name>
+        <description>Website META Language</description>
+        <homepage>https://github.com/thewml/wml-overlay</homepage>
+        <owner type="person">
+            <email>mark-in@users.noreply.github.com</email>
+            <name>Ivan Markin</name>
+        </owner>
+        <source type="git">git://github.com/thewml/wml-overlay.git</source>
+        <feed>https://github.com/thewml/wml-overlay/commits/master.atom</feed>
+    </repo>
+</repositories>
